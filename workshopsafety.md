@@ -11,9 +11,9 @@
 
 | Device      | Required PPE | Required Authorization | Comment |
 | ----------- | ----------- | ----------- | ----------- |
-| Angle Grinder | ![m003] ![m004] ![m009] |   | 	blabla
+| Angle Grinder | ![m003] ![m004] ![m009] |   | 	tbd
 
 
- [m003]: m003.svg { width=25px }
- [m004]: m004.svg { width=25px }
- [m009]: m009.svg { width=25px }
+[m003]: iso7010/m003.svg { width=25px }
+[m004]: iso7010/m004.svg { width=25px }
+[m009]: iso7010/m009.svg { width=25px }
